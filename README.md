@@ -10,7 +10,6 @@ Sample output:
 
 ```json
 {
-  "id": "/subscriptions/234bda31-0fde-31de-b81e-f123adg51cba/resourceGroups/myResourceGroup",
   "id": "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/myResourceGroup",
   "location": "eastus",
   "managedBy": null,

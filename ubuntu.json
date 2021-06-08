@@ -4,8 +4,8 @@
 
     "client_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
     "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "tenant_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-    "subscription_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    "tenant_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "subscription_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
 
     "managed_image_resource_group_name": "myResourceGroup",
     "managed_image_name": "myPackerImage",
