@@ -10,7 +10,8 @@ Sample output:
 
 ```json
 {
-  "id": "/subscriptions/27c6a60b-0aed-4e75-a7ea-f5cf2e49f89e/resourceGroups/myResourceGroup",
+  "id": "/subscriptions/234bda31-0fde-31de-b81e-f123adg51cba/resourceGroups/myResourceGroup",
+  "id": "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/myResourceGroup",
   "location": "eastus",
   "managedBy": null,
   "name": "myResourceGroup",
@@ -32,9 +33,9 @@ Sample output:
 
 ```json
 {
-  "client_id": "93b1395d-51b5-4947-857b-88752561b267",
-  "client_secret": "Bk348AjfsdD.sdflkj2_lkdjf2junNANai",
-  "tenant_id": "58eabf40-fc5f-4a00-99d1-391ffa593deb"
+  "client_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "tenant_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 }
 ```
 
@@ -48,7 +49,7 @@ Sample output:
 
 ```json
 {
-  "subscription_id": "234bda31-0fde-31de-b81e-f123adg51cba"
+  "subscription_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 }
 ```
 
